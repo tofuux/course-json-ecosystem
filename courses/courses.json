@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }
+  },
+  {
+    "id": 7,
+    "platform": "freeCodeCamp",
+    "free_course": "yes",
+    "course_name": "Machine Learning with Python",
+    "link": "https://www.freecodecamp.org/learn/machine-learning-with-python/",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"    
+  }  
 ]
