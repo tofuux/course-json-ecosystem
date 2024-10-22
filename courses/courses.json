@@ -50,7 +50,7 @@
     "certification": "paid"
   },
   {
-    "id": 6,
+    "id": 7,
     "platform": "edX",
     "free_course": "yes",
     "course_name": "Introduction to Computer Science",
@@ -60,7 +60,7 @@
     "certification": "paid"
   }, 
   {
-    "id": 7,
+    "id": 8,
     "platform": "edX",
     "free_course": "yes",
     "course_name": "Introduction to Computer Science",
