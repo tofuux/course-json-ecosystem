@@ -11,17 +11,17 @@
   },
   {
     "id": 2,
-    "platform": "Coursera",
+    "Platform": "Coursera",
     "free_course": "yes",
-    "course_name": "Machine Learning",
+    "course_name": "Ruby",
     "link": "https://www.coursera.org/learn/machine-learning",
-    "difficulty": "intermediate",
+    "difficulty": "Advance",
     "module_number": 11,
     "certification": "paid"
   },
   {
     "id": 3,
-    "platform": "Khan Academy",
+    "Platform": "Khan Academy",
     "free_course": "yes",
     "course_name": "Introduction to JavaScript",
     "link": "https://www.khanacademy.org/computing/computer-programming/programming",
@@ -31,8 +31,8 @@
   },
   {
     "id": 4,
-    "platform": "Udemy",
-    "free_course": "no",
+    "Platform": "Udemy",
+    "free_course": "yes",
     "course_name": "Complete Python Bootcamp",
     "link": "https://www.udemy.com/course/complete-python-bootcamp/",
     "difficulty": "beginner",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "platform": "edX",
+    "Platform": "edX",
     "free_course": "yes",
     "course_name": "Introduction to Computer Science",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
@@ -51,10 +51,20 @@
   },
   {
     "id": 6,
-    "platform": "Cloud Skills Boost",
+    "Platform": "Infosis Spring Board",
     "free_course": "yes",
     "course_name": "ML Ops",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  }
+  {
+    "id": 7,
+    "Platform": "Scaler",
+    "free_course": "yes",
+    "course_name": "SQL In Python",
+    "link": "https://www.scaler.com/topics/course/dbms/",
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
