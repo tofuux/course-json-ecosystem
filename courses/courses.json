@@ -68,5 +68,15 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
+  },
+   {
+    "id": 11,
+    "platform": "github",
+    "free_course": "yes",
+    "course_name": "python",
+    "link": "xyz.com",
+    "difficulty": "beginner",
+    "module_number": 18,
+    "certification": ""free
   }
 ]
