@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "W3schools",
+    "free_course": "yes",
+    "course_name": "C",
+    "link": "https://www.w3schools.com/c/index.php",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
   }
 ]
