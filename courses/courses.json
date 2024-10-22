@@ -51,12 +51,12 @@
   },
   {
     "id": 6,
-    "platform": "Cloud Skills Boost",
+    "platform": "coursera",
     "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "course_name": "Introduction to c language",
+    "link": "https://www.course.org/course/introduction-to-c-language",
     "difficulty": "beginner",
-    "module_number": 6,
+    "module_number": 5,
     "certification": "paid"
   }
 ]
