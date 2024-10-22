@@ -1,4 +1,4 @@
-[
+m[
   {
     "id": 1,
     "platform": "freeCodeCamp",
@@ -62,7 +62,7 @@
 
 {
  "id": 57,
-    "platform": "",
+    "platform": "udemy",
     "free_course": "yes",
     "course_name": "ML Ops",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
