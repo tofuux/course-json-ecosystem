@@ -40,6 +40,16 @@
     "certification": "paid" 
   },
   {
+    "id": 70,
+    "platform": "Hacktober",
+    "free_course": "Yes",
+    "course_name": "git and github",
+    "link": "https://hacktoberfest.com/",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "free"
+  }
+  {
     "id": 5,
     "platform": "edX",
     "free_course": "yes",
@@ -58,16 +68,6 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  },
-  {
-    "id": 7,
-    "platform": "Hacktober",
-    "free_course": "Yes",
-    "course_name": "git and github",
-    "link": "https://hacktoberfest.com/",
-    "difficulty": "beginner",
-    "module_number": 7,
-    "certification": "free"
   }
     
 ]
