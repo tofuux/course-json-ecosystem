@@ -68,5 +68,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 8,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "phyton",
+    "link": "https://www.youtube.com/watch?v=ERCMXc8x7mc",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
   }
 ]
