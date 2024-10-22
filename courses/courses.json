@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "Harvard",
+    "free_course": "yes",
+    "course_name": "Systematic Approaches to Policy Design",
+    "link": "https://pll.harvard.edu/course/systematic-approaches-policy-design",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
   }
-]
