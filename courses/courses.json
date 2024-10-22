@@ -59,4 +59,12 @@
     "module_number": 6,
     "certification": "paid"
   }
+  {"id": 7,
+    "platform": "edx",
+    "free_course": "no",
+    "course_name": "Computer Science for Artificial Intelligence",
+    "link": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence?index=product&objectID=program-8c5c1af9-761b-49b4-9f52-f6f48856d906&webview=false&campaign=Computer+Science+for+Artificial+Intelligence&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-science",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
 ]
