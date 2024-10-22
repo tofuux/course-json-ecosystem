@@ -59,4 +59,16 @@
     "module_number": 6,
     "certification": "paid"
   }
+  ,
+  {
+    "id": 7,
+    "platform": "w3schools",
+    "free_course": "yes",
+    "course_name": "Go lang",
+    "link": "https://go.dev/doc/tutorial/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "free"
+    
+  }
 ]
