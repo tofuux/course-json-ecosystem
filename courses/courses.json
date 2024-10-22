@@ -67,5 +67,15 @@
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "free"
+  },
+  {
+  "id": 7,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "intro to cse",
+    "link": "https://www.youtube.com/@cs50",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "free"
   } 
 ]
