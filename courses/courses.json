@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+   {
+    "id": 10,
+    "platform": "Khan Academy",
+    "free_course": "yes",
+    "course_name": "Introduction to JavaScript",
+    "link": "https://www.khanacademy.org/computing/computer-programming/programming",
+    "difficulty": "beginner",
+    "module_number": 50,
+    "certification": "N/A"
   }
 ]
