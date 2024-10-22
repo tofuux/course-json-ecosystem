@@ -51,11 +51,11 @@
   },
   {
     "id": 6,
-    "platform": "Cloud Skills Boost",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
+    "platform":"udemy",
+    "free_course": "no",
+    "course_name": "python",
+   
+    "link": "https://www.udemy.com/course/complete-python-bootcamp/"
     "module_number": 6,
     "certification": "paid"
   }
