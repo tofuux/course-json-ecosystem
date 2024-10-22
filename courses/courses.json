@@ -1,4 +1,14 @@
-[
+[ 
+  {
+    "id": 0,
+    "platform": "code with harry",
+    "free_course": "yes",
+    "course_name": "python for beginers",
+    "link": "https://www.codewithharry.com",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "free"
+  },
   {
     "id": 1,
     "platform": "freeCodeCamp",
