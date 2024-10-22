@@ -68,5 +68,15 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
+  },
+   {
+    "id": 11,
+    "platform": "MIT OCW",
+    "free_course": "YES",
+    "course_name": "Complete web development bootcamp",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
   }
 ]
