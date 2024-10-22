@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "Youtube",
+    "free_course": "yes",
+    "course_name": "DSA series",
+    "link": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt",
+    "difficulty": "beginner to advanced",
+    "module_number": 1,
+    "certification": "N/A"
   }
 ]
