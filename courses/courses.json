@@ -51,12 +51,21 @@
   },
   {
     "id": 6,
-    "platform": "Cloud Skills Boost",
+    "platform": "edX",
     "free_course": "yes",
-    "course_name": "ML Ops",
+    "course_name": "Introduction to Computer Science",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  }, 
+  {
+    "id": 7,
+    "platform": "edX",
+    "free_course": "yes",
+    "course_name": "Introduction to Computer Science",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
   }
-]
