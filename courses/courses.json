@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "platform": "freeCodeCamp",
+    "Platform": "freeCodeCamp",
     "free_course": "yes",
     "course_name": "Responsive Web Design",
     "link": "https://www.freecodecamp.org/learn/responsive-web-design/",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "platform": "Coursera",
+    "Platform": "Coursera",
     "free_course": "yes",
     "course_name": "Machine Learning",
     "link": "https://www.coursera.org/learn/machine-learning",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "platform": "Khan Academy",
+    "Platform": "Khan Academy",
     "free_course": "yes",
     "course_name": "Introduction to JavaScript",
     "link": "https://www.khanacademy.org/computing/computer-programming/programming",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "platform": "Udemy",
+    "Platform": "Udemy",
     "free_course": "no",
     "course_name": "Complete Python Bootcamp",
     "link": "https://www.udemy.com/course/complete-python-bootcamp/",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "platform": "edX",
+    "Platform": "edX",
     "free_course": "yes",
     "course_name": "Introduction to Computer Science",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "platform": "Cloud Skills Boost",
+    "Platform": "Cloud Skills Boost",
     "free_course": "yes",
     "course_name": "ML Ops",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
