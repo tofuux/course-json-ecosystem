@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "Code with Mosh",
+    "free_course": "no",
+    "course_name": "Complete Python Mastery",
+    "link": "https://codewithmosh.com/p/python-programming-course-beginners",
+    "difficulty": "beginner",
+    "module_number": 13,
+    "certification": "paid"
   }
 ]
