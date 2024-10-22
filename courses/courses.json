@@ -88,5 +88,14 @@
     "difficulty": "beginner",
     "module_number": 9,
     "certification": "paid"
+  },
+  { "id": ,10
+    "platform": "DATA SCIENCE",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 10,
+    "certification": "paid"
   }
 ]
