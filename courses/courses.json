@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }
+  },
+   {
+    "id": 7,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "C",
+    "link": "https://www.youtube.com/watch?v=irqbmMNs2Bo",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
 ]
