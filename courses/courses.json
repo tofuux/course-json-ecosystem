@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id":67,
+    "platform":"Github",
+    "free_course": "yes",
+    "course_name": "Learn Github",
+    "link": "https://www.edx.org/course/learn-git-hub",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
   }
 ]
