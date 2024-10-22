@@ -58,5 +58,16 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }
+
+    {
+    "id": 7,
+    "platform": "Youtube",
+    "free_course": "yes",
+    "course_name": "C Language Tutorial for Beginners ",
+    "link": "https://youtu.be/aZb0iu4uGwA?si=MMjFMu8nmN0Q_1-i",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "free"
+  },
+
 ]
