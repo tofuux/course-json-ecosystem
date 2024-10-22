@@ -1,5 +1,5 @@
 [
-  {
+  c{
     "id": 1,
     "platform": "freeCodeCamp",
     "free_course": "yes",
@@ -60,3 +60,22 @@
     "certification": "paid"
   }
 ]
+c{
+    "id": 1,
+    "platform": "freeCodeCamp",
+    "free_course": "yes",
+    "course_name": "Responsive Web Design",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "free"
+  }, c{
+    "id": 1,
+    "platform": "freeCodeCamp",
+    "free_course": "yes",
+    "course_name": "Responsive Web Design",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "free"
+  },
