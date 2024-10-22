@@ -78,5 +78,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+   {
+    "id": 9,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "c++",
+    "link": "https://www.youtube.com/watch?v=VTLCoHnyACE&list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
   }
 ]
