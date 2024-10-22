@@ -58,5 +58,17 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+
+  
+  {
+    "id": 9,
+    "platform": "YouTube",
+    "free_course": "yes",
+    "course_name": "javascript",
+    "link": "https://m.youtube.com/watch?v=EerdGm-ehJQ",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "free"
   }
-]
+]1
