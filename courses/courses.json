@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "Udemy",
+    "free_course": "yes",
+    "course_name": "Python",
+    "link": "https://www.udemy.com/course/100-days-of-code/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
   }
 ]
