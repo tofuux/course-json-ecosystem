@@ -68,5 +68,25 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
+  },
+  {
+    "id": 8,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Programming with JavaScript",
+    "link": "https://www.coursera.org/learn/programming-with-javascript",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id": 9,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "JavaScript for Beginners Specialization",
+    "link": "https://www.coursera.org/specializations/javascript-beginner",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
   }
 ]
