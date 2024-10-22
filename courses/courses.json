@@ -59,4 +59,14 @@
     "module_number": 6,
     "certification": "paid"
   }
+  {
+  "id": 7,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "c++ course",
+    "link": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+    "difficulty": "intermediate",
+    "module_number": 11,
+    "certification": "N/A"
+  },
 ]
