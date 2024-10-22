@@ -58,5 +58,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "W3Schools",
+    "free_course": "yes",
+    "course_name": "Python",
+    "link": "https://www.w3schools.com/python/default.asp",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
   }
 ]
