@@ -58,5 +58,16 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }
+  },
+{
+  "id":7,
+  "platform":"Apna College"
+  "free_course": "No",
+  "course_name": "Alpha 4.0",
+  "link": "https://www.apnacollege.in/start",
+  "difficulty": "beginner",
+  "module_number": 8,
+  "certification": "paid"
+}
 ]
+  
