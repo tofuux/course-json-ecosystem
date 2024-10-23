@@ -139,6 +139,16 @@
     "difficulty": "beginner",
     "module_number": 3,
     "certification": "paid"
+  },
+  {
+    "id":47,
+    "platform": "free youtube course, dont hate me",
+    "free_course": "yes",
+    "course_name": "free c course, full basics",
+    "link": "https://www.youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt",
+    "difficulty": "super basic",
+    "module_number": 12,
+    "certification": "N/A"
   }
 ]
 
