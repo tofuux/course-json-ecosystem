@@ -59,6 +59,7 @@
     "module_number": 6,
     "certification": "paid"
   },
+
 {
     "id": 7,
     "platform": "scaler",
@@ -68,5 +69,18 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-}
+},
   
+
+   {
+    "id": 10,
+    "platform": "Udemy",
+    "free_course": "no",
+    "course_name": "Complete web development bootcamp",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
+  }
+]
+
