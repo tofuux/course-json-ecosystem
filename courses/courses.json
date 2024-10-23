@@ -58,7 +58,8 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  },
+
+  }
    {
     "id": 9,
     "platform": "Cloud Skills Boost",
@@ -78,5 +79,16 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
-  }
+  },   
+  {
+    "id": 16,
+    "platform": "SPECTRUM",
+    "free_course": "no",
+    "course_name": "cd aiml",
+    "link": "https://www.spectrum.com/",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+
+  },
 ]
