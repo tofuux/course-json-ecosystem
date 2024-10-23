@@ -58,7 +58,6 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-
   },
   {
     "id": 7,
@@ -100,6 +99,16 @@
     "certification": "paid"
   },   
   {
+    "id": 11,
+    "platform": "udemy",
+    "free_course": "no",
+    "course_name": "master c++",
+    "link": "https://www.udemy.com/share/10bMeF3@Z3wXXDzvUXuy4pzZrqfw6igmuMexQSThT044o-HIcKC2Jvv-Uw-Lwo3oKJQ7fIji-w==/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
+  {
     "id": 16,
     "platform": "SPECTRUM",
     "free_course": "no",
@@ -109,5 +118,6 @@
     "module_number": 5,
     "certification": "paid"
 
-  },
+  }
 ]
+
