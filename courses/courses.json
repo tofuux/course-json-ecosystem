@@ -58,6 +58,7 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+
   },
   {
     "id": 7,
@@ -68,5 +69,45 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }
+  },
+   {
+    "id": 9,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
+  {
+    "id": 8,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+  },
+   {
+    "id": 10,
+    "platform": "Udemy",
+    "free_course": "no",
+    "course_name": "Complete web development bootcamp",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
+  },   
+  {
+    "id": 16,
+    "platform": "SPECTRUM",
+    "free_course": "no",
+    "course_name": "cd aiml",
+    "link": "https://www.spectrum.com/",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+
+  },
 ]
