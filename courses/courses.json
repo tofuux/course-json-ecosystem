@@ -129,6 +129,16 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
+  },
+  {
+    "id":13,
+    "platform": "Code with Mosh",
+    "free_course": "no",
+    "course_name": "The Ultimate C++ Course",
+    "link": "https://codewithmosh.com/p/ultimate-c-plus-plus-series",
+    "difficulty": "beginner",
+    "module_number": 3,
+    "certification": "paid"
   }
 ]
 
