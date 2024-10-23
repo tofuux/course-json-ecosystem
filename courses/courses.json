@@ -139,7 +139,18 @@
     "difficulty": "beginner",
     "module_number": 3,
     "certification": "paid"
+  },
+  {
+    
+    "id":14,
+    "platform":"Udemy",
+    "Free course":"Yes",
+    "course_name": "Zero to Hero in Python",
+    "link":"https://www.udemy.com/course/complete-python-bootcamp/?couponCode=IND21PM",
+    "difficulty":"beginner",
+    "certification":"paid"
   }
+  
 ]
 
 
