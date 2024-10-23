@@ -69,4 +69,14 @@
     "module_number": 12,
     "certification": "paid"
   }
+  {
+    "id": 11,
+    "platform": "besant technologies",
+    "free_course": "no",
+    "course_name": "Complete full stack web development",
+    "link": "https://www.besanttechnologies.com/full-stack-training-course",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
+  }
 ]
