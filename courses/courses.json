@@ -194,7 +194,17 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
-     }
+     },
+  {
+    "id": 17,
+    "platform": "makeurcode",
+    "free_course": "yes",
+    "course_name": "Java",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-java",
+    "difficulty": "beginner",
+    "module_number": 3,
+  }, 
+  
 ]
 
 
