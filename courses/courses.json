@@ -67,8 +67,12 @@
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
     "difficulty": "beginner",
     "module_number": 6,
-    "certification": "paid"
-  },
+    "certification": "paid,
+   {
+    "id": 8,
+    "platform": "class",
+    "free_course": "yes",
+    "course_name": "html",
   {
     "id": 7,
     "platform": "Edx",
@@ -93,7 +97,7 @@
     "id": 9,
     "platform": "Cloud Skills Boost",
     "free_course": "yes",
-    "course_name": "ML Ops",
+    "course_name": "ML Ops,
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
     "difficulty": "beginner",
     "module_number": 6,
@@ -108,7 +112,6 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
-
   },
   {
   "id": 50,
