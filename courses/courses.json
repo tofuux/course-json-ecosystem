@@ -111,8 +111,8 @@
     "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
     "difficulty": "beginner",
     "module_number": 12,
-    "certification": "paid"
-  }
+    "certification": "paid
+  },
   {
     "id": 11,
     "platform": "besant technologies",
@@ -122,17 +122,17 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
-  }
   },
   {
-  "id": 50,
+    "id": 50,
     "platform": "Udemy",
     "free_course": "no",
     "course_name": "Complete web development bootcamp",
     "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
     "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid",
     "module_number": 50,
-
   },
   {
     "id": 11,
@@ -204,7 +204,20 @@
     "difficulty": "beginner",
     "module_number": "N/A",
     "certification": "paid"
-     }
-]
+   },
 
+
+   {
+    "id": 7,
+    "platform": "greeks for greeks",
+    "free_course": "yes",   
+    "course_name": "data science",
+    "link":"https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=gfg_submenu&itm_campaign=DS_Submenu",  
+    "difficulty": "beginner",
+    "module_number": 12,
+    "module_number": 6,
+    "certification": "paid"
+  },
+
+]
 
