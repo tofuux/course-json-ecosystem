@@ -110,4 +110,14 @@
     "certification": "paid"
 
   },
+  {
+    "id": 17,
+    "platform": "Udemy",
+    "free_course": "no",
+    "course_name": "The Complete Python Bootcamp",
+    "link": "https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9407968?start=15#overview",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "free"
+  },
 ]
