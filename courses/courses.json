@@ -141,12 +141,14 @@
     "certification": "paid"
   },
   {
-    "id":13,
-    "platform": "Code with Mosh",
-    "free_course": "no",
-    "course_name": "The Ultimate C++ Course",
-    "link": "https://codewithmosh.com/p/ultimate-c-plus-plus-series",
+    "id":96,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "DSA with java",
+    "link": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
     "difficulty": "beginner",
+    "module_number": 69,
+    "certification": "N/A",
     "module_number": 3,
     "certification": "paid"
   },
@@ -158,9 +160,7 @@
     "link": "https://www.edx.org/learn/artificial-intelligence",
     "difficulty": "beginner",
     "module_number": 4,
-    "certification": "paid"
-  },
-
+    "certification": "paid}
    {
      "id": 15,
     "platform": "Udemy",
@@ -180,7 +180,7 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
-  },
+     }
 ]
 
 
