@@ -160,6 +160,16 @@
     "module_number": 4,
     "certification": "paid"
   },
+    {
+    "id": 17,
+    "platform": "LearnDjango",
+    "free_course": "no",
+    "course_name": "Django for Beginners",
+    "link": "https://djangoforbeginners.com/",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "paid"
+  }
   
 ]
 
