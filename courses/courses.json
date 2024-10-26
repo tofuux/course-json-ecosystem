@@ -58,7 +58,8 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }, {
+  }, 
+  {
     "id": 7,
     "platform": "dskjsdjkn",
     "free_course": "yes",
@@ -67,5 +68,16 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }
+  },
+  { 
+     {
+    "id": 8,
+    "platform": "edx",
+    "free_course": "yes",
+    "course_name": "Learn Artificial Intelligence",
+    "link": "https://www.edx.org/learn/artificial-intelligence",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
+  },
 ]
