@@ -68,15 +68,5 @@
     "difficulty": "beginner",
     "module_number": 3,
     "certification": "paid"
-  },
-  {
-    "id": 8,
-    "platform": "create",
-    "free_course": "yes",
-    "course_name": "Artificial intelligence",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
-    "module_number": 8,
-    "certification": "paid"
   }
 ]
