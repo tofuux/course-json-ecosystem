@@ -194,7 +194,17 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
-     }
+  },
+   {
+    "id": 7,
+    "platform": "greeks for greeks",
+    "free_course": "yes",   
+    "course_name": "data science",
+    "link":"https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=gfg_submenu&itm_campaign=DS_Submenu",  
+    "difficulty": "beginner",
+    "module_number": 12,
+    "module_number": 6,
+    "certification": "paid"
+  }
 ]
-
 
