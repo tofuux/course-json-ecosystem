@@ -160,6 +160,16 @@
     "module_number": 4,
     "certification": "paid"
   },
+     { 
+    "id": 15,
+    "platform": "physics wallah",
+    "free_course": "no",
+    "course_name": "full stack web development",
+    "link": "https://pwskills.com/blog/full-stack-web-development-certification-course/",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
   
 ]
 
