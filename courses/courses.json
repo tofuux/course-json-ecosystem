@@ -194,6 +194,16 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
+     },
+  { 
+    "id": 17,
+    "platform": "udemy",
+    "free_course": "no",
+    "course_name": "the complete flutter development bootcamp with dart",
+    "link": "https://www.udemy.com/course/flutter-bootcamp-with-dart/",
+    "difficulty": "beginner",
+    "module_number": "N/A",
+    "certification": "paid"
      }
 ]
 
