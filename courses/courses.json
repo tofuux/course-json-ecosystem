@@ -59,13 +59,177 @@
     "module_number": 6,
     "certification": "paid"
   },
+
   "id": 7,
     "platform": "Cloud Skills Boost",
     "free_course": "yes",
     "course_name": "ML Ops",
+      "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "Codecademy",
+    "free_course": "yes",
+    "course_name": "Learn C++",
+    "link": "https://www.codecademy.com/learn/learn-c-plus-plus",
+    "difficulty": "beginner",
+    "module_number": 13,
+    "certification": "free"
+  }, 
+  {
+    "id": 7,
+    "platform": "Edx",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?linked_from=autocomplete-prequery&c=autocomplete-prequery&position=1",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
+  {
+    "id": 9,
+    "platform": "Udemy",
+    "free_course": "yes",
+    "course_name": "ChatGPT for complete beginners",
+    "link": "https://www.udemy.com/course/chatgpt-for-complete-beginners/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
+  {
+    "id": 9,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops,
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }
+  },
+  {
+    "id": 10,
+    "platform": "Udemy",
+    "free_course": "no",
+    "course_name": "Complete web development bootcamp",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid
+  },
+  {
+    "id": 11,
+    "platform": "besant technologies",
+    "free_course": "no",
+    "course_name": "Complete full stack web development",
+    "link": "https://www.besanttechnologies.com/full-stack-training-course",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
+  },
+  {
+    "id": 11,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Programming with JavaScript",
+    "link": "https://www.coursera.org/learn/programming-with-javascript",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id": 12,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "JavaScript for Beginners Specialization",
+    "link": "https://www.coursera.org/specializations/javascript-beginner",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id": 50,
+    "platform": "Udemy",
+    "free_course": "no",
+    "course_name": "Complete web development bootcamp",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid",
+    "module_number": 50,
+  },
+  {
+    "id": 11,
+    "platform": "Udemy",
+    "free_course": "no",
+    "course_name": "Master C++",
+    "link": "https://www.udemy.com/share/10bMeF3@Z3wXXDzvUXuy4pzZrqfw6igmuMexQSThT044o-HIcKC2Jvv-Uw-Lwo3oKJQ7fIji-w==/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
+  {
+    "id": 12,
+    "platform": "SPECTRUM",
+    "free_course": "no",
+    "course_name": "CD AIML",
+    "link": "https://www.spectrum.com/",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id":96,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "DSA with java",
+    "link": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+    "difficulty": "beginner",
+    "module_number": 69,
+    "certification": "N/A",
+    "module_number": 3,
+    "certification": "paid"
+  },
+  {
+    "id": 8,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Bitcoin and Cryptocurrency Technologies",
+    "link": "https://www.coursera.org/learn/cryptocurrency",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"
+  },
+  {
+    "id": 16,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Blockchain Specialization",
+    "link": "https://www.coursera.org/specializations/uci-blockchain",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
+   },
+   { 
+    "id": 14,
+    "platform": "edx",
+    "free_course": "yes",
+    "course_name": "Learn Artificial Intelligence",
+    "link": "https://www.edx.org/learn/artificial-intelligence",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
+   },
+   {
+     "id": 1
+    "platform": "Udemy",
+    "free_course": "no",
+    "course_name": "The Complete Python Bootcamp",
+    "link": "https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9407968?start=15#overview",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "free"
+  },
 ]
