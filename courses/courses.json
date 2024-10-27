@@ -58,6 +58,16 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "Codecademy",
+    "free_course": "yes",
+    "course_name": "Learn C++",
+    "link": "https://www.codecademy.com/learn/learn-c-plus-plus",
+    "difficulty": "beginner",
+    "module_number": 13,
+    "certification": "free"
   }, 
   {
     "id": 7,
