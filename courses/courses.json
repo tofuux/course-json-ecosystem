@@ -61,20 +61,6 @@
   }, 
   {
     "id": 7,
-    "platform": "dskjsdjkn",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "paid,
-   {
-    "id": 8,
-    "platform": "class",
-    "free_course": "yes",
-    "course_name": "html",
-  {
-    "id": 7,
     "platform": "Edx",
     "free_course": "yes",
     "course_name": "ML Ops",
@@ -217,35 +203,13 @@
     "certification": "paid"
    },
    {
-     "id": 15,
+     "id": 1
     "platform": "Udemy",
     "free_course": "no",
-    "course_name": "Artificial Intelligence A-Z"
-    "link": "https://www.udemy.com/course/artificial-intelligence-az/?couponCode=KEEPLEARNING",
+    "course_name": "The Complete Python Bootcamp",
+    "link": "https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9407968?start=15#overview",
     "difficulty": "beginner",
     "module_number": 1,
-    "certification": "Free"
-   },
-     { 
-    "id": 16,
-    "platform": "physics wallah",
-    "free_course": "no",
-    "course_name": "full stack web development",
-    "link": "https://pwskills.com/blog/full-stack-web-development-certification-course/",
-    "difficulty": "beginner",
-    "module_number": 5,
-    "certification": "paid"
+    "certification": "free"
   },
-   {
-    "id": 7,
-    "platform": "greeks for greeks",
-    "free_course": "yes",   
-    "course_name": "data science",
-    "link":"https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=gfg_submenu&itm_campaign=DS_Submenu",  
-    "difficulty": "beginner",
-    "module_number": 12,
-    "module_number": 6,
-    "certification": "paid"
-  }
 ]
-
