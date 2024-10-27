@@ -247,5 +247,15 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
+     },
+      { 
+    "id": 23,
+    "platform": "CS50",
+    "free_course": "yes",
+    "course_name": "Introduction to Computer Science",
+    "link": "https://pll.harvard.edu/course/cs50-introduction-computer-science",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
      }
 ]
