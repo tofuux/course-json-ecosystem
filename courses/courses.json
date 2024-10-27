@@ -170,15 +170,6 @@
     "certification": "paid"
   },
   {
-   "id": 6,
-    "platform": "Cloud Skills Boost",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "paid"
-  },{
     "id": 18,
     "platform": "Coursera",
     "free_course": "yes",
@@ -237,5 +228,18 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
-     }
+     },
+  
+  {
+    "id": 24,
+    "platform": "freeCodeCamp",
+    "free_course": "yes",
+    "course_name": "c++ project audio plugin ",
+    "link": "https://youtu.be/i_Iq4_Kd7Rc?si=1vXkj_wG0UFIo2lr",
+    "difficulty": "intermediate",
+    "module_number": 5,
+    "certification": "free"
+     "author": "Malhar "
+  }
+
 ]
