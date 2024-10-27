@@ -68,3 +68,13 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+"id": 8,
+    "platform": "DSA",
+    "free_course": "yes",
+    "course_name": "DSA OPS",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "intermediate",
+    "module_number": 8,
+    "certification": "free"
+  }
+]
