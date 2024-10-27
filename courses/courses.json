@@ -271,6 +271,15 @@
     "module_number": 12,
     "module_number": 6,
     "certification": "paid"
+  },
+     {
+    "id": 11,
+    "platform": "pw skills lab",
+    "free_course": "yes",
+    "course_name": "full stack development",
+    "link": "https://lp.pwskills.com/Full-Stack-Web-Development",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
   }
-
 ]
