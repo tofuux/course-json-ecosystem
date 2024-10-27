@@ -50,6 +50,25 @@
     "certification": "paid"
   },
   {
+    "id": 7,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "Indian",
+    "module_number": 6,
+    "certification": "paid"
+  },
+  {
+    "id": 8,
+    "platform": "Springboard",
+    "free_course": "Nope",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "Indian",
+    "module_number": 6,
+    "certification": "paid"
+  }, {
     "id": 6,
     "platform": "YouTube",
     "free_course": "yes",
@@ -238,7 +257,7 @@
     "module_number": 3,
     "certification": "free"
   },
-       { 
+    { 
     "id": 23,
     "platform": "unacademy",
     "free_course": "no",
@@ -247,7 +266,7 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
-     },
+    },
       { 
     "id": 23,
     "platform": "CS50",
