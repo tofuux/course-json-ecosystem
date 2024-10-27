@@ -68,5 +68,16 @@
     "difficulty": "beginner",
     "module_number": 10,
     "certification": "free"
+  },
+  {
+    "id": 10,
+    "platform": "freeCodeCamp",
+    "free_course": "yes",
+    "course_name": "Responsive Web Design",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "free"
   }
 ]
+
