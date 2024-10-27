@@ -110,6 +110,26 @@
     "certification": "paid"
   },
   {
+    "id": 11,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Programming with JavaScript",
+    "link": "https://www.coursera.org/learn/programming-with-javascript",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id": 12,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "JavaScript for Beginners Specialization",
+    "link": "https://www.coursera.org/specializations/javascript-beginner",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
     "id": 50,
     "platform": "Udemy",
     "free_course": "no",
@@ -141,8 +161,49 @@
     "certification": "paid"
   },
   {
-
-    "id": 13,
+    "id":96,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "DSA with java",
+    "link": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+    "difficulty": "beginner",
+    "module_number": 69,
+    "certification": "N/A",
+    "module_number": 3,
+    "certification": "paid"
+  },
+  {
+    "id": 8,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Bitcoin and Cryptocurrency Technologies",
+    "link": "https://www.coursera.org/learn/cryptocurrency",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"
+  },
+  {
+    "id": 16,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Blockchain Specialization",
+    "link": "https://www.coursera.org/specializations/uci-blockchain",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
+   },
+   { 
+    "id": 14,
+    "platform": "edx",
+    "free_course": "yes",
+    "course_name": "Learn Artificial Intelligence",
+    "link": "https://www.edx.org/learn/artificial-intelligence",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
+   },
+   {
+     "id": 1
     "platform": "Udemy",
     "free_course": "no",
     "course_name": "The Complete Python Bootcamp",
