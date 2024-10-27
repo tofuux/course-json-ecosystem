@@ -276,5 +276,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-     }
+     },
+  {
+    "id": 24,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Bitcoin and Cryptocurrency Technologies",
+    "link": "https://www.coursera.org/learn/cryptocurrency",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"
+  }
 ]
