@@ -18,55 +18,5 @@
     "difficulty": "intermediate",
     "module_number": 11,
     "certification": "paid"
-  },
-  {
-    "id": 3,
-    "platform": "Khan Academy",
-    "free_course": "yes",
-    "course_name": "Introduction to JavaScript",
-    "link": "https://www.khanacademy.org/computing/computer-programming/programming",
-    "difficulty": "beginner",
-    "module_number": 8,
-    "certification": "N/A"
-  },
-  {
-    "id": 4,
-    "platform": "Udemy",
-    "free_course": "no",
-    "course_name": "Complete Python Bootcamp",
-    "link": "https://www.udemy.com/course/complete-python-bootcamp/",
-    "difficulty": "beginner",
-    "module_number": 12,
-    "certification": "paid" 
-  },
-  {
-    "id": 5,
-    "platform": "edX",
-    "free_course": "yes",
-    "course_name": "Introduction to Computer Science",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "paid"
-  },
-  {
-    "id": 6,
-    "platform": "Cloud Skills Boost",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "paid"
-  },
-  {
-    "id": 8,
-    "platform": "Cloud Skills Boost",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
-    "module_number": 10,
-    "certification": "paid"
   }
 ]
