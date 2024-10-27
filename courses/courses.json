@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "platform": "Cloud Skills Boost",
+    "https://m.youtube.com/watch?v=EerdGm-ehJQplatform": "Cloud Skills Boost",
     "free_course": "yes",
     "course_name": "ML Ops",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
@@ -294,3 +294,4 @@
 
   }
 ]
+
