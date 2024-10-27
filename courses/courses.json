@@ -230,6 +230,40 @@
     "link": "https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9407968?start=15#overview",
     "difficulty": "beginner",
     "module_number": 1,
-    "certification": "free"
-  },
+    "certification": "Free"
+   },
+     { 
+    "id": 16,
+    "platform": "physics wallah",
+    "free_course": "no",
+    "course_name": "full stack web development",
+    "link": "https://pwskills.com/blog/full-stack-web-development-certification-course/",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+     },
+  { 
+    "id": 17,
+    "platform": "udemy",
+    "free_course": "no",
+    "course_name": "the complete flutter development bootcamp with dart",
+    "link": "https://www.udemy.com/course/flutter-bootcamp-with-dart/",
+    "difficulty": "beginner",
+    "module_number": "N/A",
+    "certification": "paid"
+   },
+
+
+   {
+    "id": 7,
+    "platform": "greeks for greeks",
+    "free_course": "yes",   
+    "course_name": "data science",
+    "link":"https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=gfg_submenu&itm_campaign=DS_Submenu",  
+    "difficulty": "beginner",
+    "module_number": 12,
+    "module_number": 6,
+    "certification": "paid"
+  }
+
 ]
