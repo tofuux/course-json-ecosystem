@@ -58,21 +58,27 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }, 
-  {
-    "id": 7,
-    "platform": "dskjsdjkn",
+  },
+
+  "id": 7,
+    "platform": "Cloud Skills Boost",
     "free_course": "yes",
     "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+      "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
     "difficulty": "beginner",
     "module_number": 6,
-    "certification": "paid,
-   {
-    "id": 8,
-    "platform": "class",
+    "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "Codecademy",
     "free_course": "yes",
-    "course_name": "html",
+    "course_name": "Learn C++",
+    "link": "https://www.codecademy.com/learn/learn-c-plus-plus",
+    "difficulty": "beginner",
+    "module_number": 13,
+    "certification": "free"
+  }, 
   {
     "id": 7,
     "platform": "Edx",
@@ -111,8 +117,8 @@
     "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
     "difficulty": "beginner",
     "module_number": 12,
-    "certification": "paid"
-  }
+    "certification": "paid
+  },
   {
     "id": 11,
     "platform": "besant technologies",
@@ -122,17 +128,37 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
-  }
   },
   {
-  "id": 50,
+    "id": 11,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Programming with JavaScript",
+    "link": "https://www.coursera.org/learn/programming-with-javascript",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id": 12,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "JavaScript for Beginners Specialization",
+    "link": "https://www.coursera.org/specializations/javascript-beginner",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id": 50,
     "platform": "Udemy",
     "free_course": "no",
     "course_name": "Complete web development bootcamp",
     "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
     "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid",
     "module_number": 50,
-
   },
   {
     "id": 11,
@@ -166,6 +192,26 @@
     "module_number": 3,
     "certification": "paid"
   },
+  {
+    "id": 8,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Bitcoin and Cryptocurrency Technologies",
+    "link": "https://www.coursera.org/learn/cryptocurrency",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"
+  },
+  {
+    "id": 16,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Blockchain Specialization",
+    "link": "https://www.coursera.org/specializations/uci-blockchain",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
+   },
    { 
     "id": 14,
     "platform": "edx",
@@ -174,13 +220,14 @@
     "link": "https://www.edx.org/learn/artificial-intelligence",
     "difficulty": "beginner",
     "module_number": 4,
-    "certification": "paid}
+    "certification": "paid"
+   },
    {
-     "id": 15,
+     "id": 1
     "platform": "Udemy",
     "free_course": "no",
-    "course_name": "Artificial Intelligence A-Z"
-    "link": "https://www.udemy.com/course/artificial-intelligence-az/?couponCode=KEEPLEARNING",
+    "course_name": "The Complete Python Bootcamp",
+    "link": "https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9407968?start=15#overview",
     "difficulty": "beginner",
     "module_number": 1,
     "certification": "Free"
@@ -203,8 +250,5 @@
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-java",
     "difficulty": "beginner",
     "module_number": 3,
-  }, 
-  
+  }
 ]
-
-
