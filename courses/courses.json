@@ -192,7 +192,15 @@
     "module_number": 3,
     "certification": "paid"
   },
-  {
+  { 
+    "id":14,
+    "platform":"Udemy",
+    "Free course":"Yes",
+    "course_name": "Zero to Hero in Python",
+    "link":"https://www.udemy.com/course/complete-python-bootcamp/?couponCode=IND21PM",
+    "difficulty":"beginner",
+    "certification":"paid"
+  },
     "id": 8,
     "platform": "Coursera",
     "free_course": "yes",
@@ -253,10 +261,9 @@
     "certification": "paid"
    },
 
-
    {
     "id": 7,
-    "platform": "greeks for greeks",
+    "platform": "greeks for geeks",
     "free_course": "yes",   
     "course_name": "data science",
     "link":"https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=gfg_submenu&itm_campaign=DS_Submenu",  
