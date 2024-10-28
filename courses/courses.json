@@ -208,6 +208,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+ {
+    "id": 7,
+    "platform":"infosys spring board",
+    "free_course": "yes,
+    "course_name": "business english",
+    "link": "https://infyspringboard.onwingspan.com/web/en/viewer/video/lex_auth_012683035629707264164_shared?collectionType=Course&collectionId=lex_auth_012683227498151936279_shared&pathId=lex_auth_012683367307296768293_shared",
+    "difficulty": "easy",
+    "module_number": 1,
+    "certification": "paid"
   },
   {
     "id": 18,
