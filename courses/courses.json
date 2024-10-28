@@ -120,6 +120,16 @@
     "certification": "paid"
   },
   {
+    "id": 7,
+    "platform": "Code with Mosh",
+    "free_course": "no",
+    "course_name": "React 18 for Beginners",
+    "link": "https://codewithmosh.com/p/ultimate-react-part1",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
     "id": 12,
     "platform": "edX",
     "free_course": "yes",
