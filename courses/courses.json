@@ -189,6 +189,17 @@
     "certification": "paid"
   },
 
+
+{
+    "id": 7,
+    "platform": "scaler",
+    "free_course": "yes",
+    "course_name": "python",
+    "link": "https://www.programiz.com/python-programming/online-compiler/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+},
   {
     "id": 7,
     "platform": "Infosys springboard",
@@ -199,6 +210,7 @@
     "module_number": 6,
     "certification": "free"
   },
+
    {
     "id": 10,
     "platform": "Khan Academy",
