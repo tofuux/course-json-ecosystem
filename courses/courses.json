@@ -178,6 +178,16 @@
     "module_number": 6,
     "certification": "paid"
   },
+  {
+    "id": 7,
+    "platform": "Infosys springboard",
+    "free_course": "yes",
+    "course_name": "principle of programming using C",
+    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "free"
+  },
    {
     "id": 10,
     "platform": "Khan Academy",
@@ -290,5 +300,6 @@
     "module_number": 6,
     "certification": "paid"
   },
+
 
 ]
