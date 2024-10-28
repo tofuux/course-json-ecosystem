@@ -282,6 +282,18 @@
     "certification": "paid"
      },
 
+  { 
+    "id": 24,
+    "platform": "R programming",
+    "free_course": "yes",
+    "course_name": "Introduction to R programming",
+    "link": "https://www.udemy.com/topic/r-programming-language/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_DSA_Gamma_NonP_la.EN_cc.India&campaigntype=Search&portfolio=Bing-India&language=EN&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_1312819272858256_._ad__._kw_Teaching%20en_._de_c_._dm__._pl__._ti_dat-2333850869606933:loc-90_._li_157208_._pd__._&matchtype=b&msclkid=ca342337c88d1801709244299ba13e51",
+    "difficulty": "beginner",
+    "module_number": 3,
+    "certification": "free"
+  }
+
+
   {
     "id": 22,
     "platform": "makeurcode",
@@ -325,7 +337,5 @@
     "module_number": 6,
     "certification": "paid"
   },
-
-
 
 ]
