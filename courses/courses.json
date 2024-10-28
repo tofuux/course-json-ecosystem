@@ -50,6 +50,15 @@
     "certification": "paid"
   },
   {
+    "id": 8,
+    "platform": "Springboard",
+    "free_course": "Nope",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "Indian",
+    "module_number": 6,
+    "certification": "paid"
+  }, {
     "id": 6,
     "platform": "YouTube",
     "free_course": "yes",
@@ -169,6 +178,37 @@
     "module_number": 6,
     "certification": "paid"
   },
+
+  {
+    "id": 7,
+    "platform": "Infosys springboard",
+    "free_course": "yes",
+    "course_name": "principle of programming using C",
+    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "free"
+  },
+   {
+    "id": 10,
+    "platform": "Khan Academy",
+    "free_course": "yes",
+    "course_name": "Introduction to JavaScript",
+    "link": "https://www.khanacademy.org/computing/computer-programming/programming",
+    "difficulty": "beginner",
+    "module_number": 50,
+    "certification": "N/A"
+  },
+  {
+   "id": 6,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
   {
     "id": 18,
     "platform": "Coursera",
@@ -219,7 +259,7 @@
     "module_number": 3,
     "certification": "free"
   },
-       { 
+    { 
     "id": 23,
     "platform": "unacademy",
     "free_course": "no",
@@ -228,6 +268,7 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
+
      },
   
   {
@@ -240,6 +281,74 @@
     "module_number": 5,
     "certification": "free"
      "author": "Malhar "
+ 
+
+    },
+
+      { 
+    "id": 24,
+    "platform": "CS50",
+    "free_course": "yes",
+    "course_name": "Introduction to Computer Science",
+    "link": "https://pll.harvard.edu/course/cs50-introduction-computer-science",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+     },
+
+  { 
+    "id": 24,
+    "platform": "R programming",
+    "free_course": "yes",
+    "course_name": "Introduction to R programming",
+    "link": "https://www.udemy.com/topic/r-programming-language/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_DSA_Gamma_NonP_la.EN_cc.India&campaigntype=Search&portfolio=Bing-India&language=EN&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_1312819272858256_._ad__._kw_Teaching%20en_._de_c_._dm__._pl__._ti_dat-2333850869606933:loc-90_._li_157208_._pd__._&matchtype=b&msclkid=ca342337c88d1801709244299ba13e51",
+    "difficulty": "beginner",
+    "module_number": 3,
+    "certification": "free"
   }
 
+
+  {
+    "id": 22,
+    "platform": "makeurcode",
+    "free_course": "yes",
+    "course_name": "Java",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-java",
+    "difficulty": "beginner",
+    "module_number": 3,
+    "certification": "free"
+  },
+
+  {
+    "id": 24,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Bitcoin and Cryptocurrency Technologies",
+    "link": "https://www.coursera.org/learn/cryptocurrency",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"
+  },
+     { 
+    "id": 25,
+    "platform": "UDEMY",
+    "free_course": "PAID",
+    "course_name": "WEB DEVELOPMENT",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350454?start=450#notes",
+    "difficulty": "easy to hard",
+    "module_number": 7,
+    "certification": "paid"
+
+
+  },
+  {
+    "id": 24,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "intermediate",
+    "module_number": 6,
+    "certification": "paid"
+  }
 ]
