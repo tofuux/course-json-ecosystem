@@ -323,6 +323,19 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+
+  },
+  {
+    "id":14,
+    "platform": "W3Schools Online Web Tutorials",
+    "free_course": "yes",
+    "course_name": "HTML Tutorial",
+    "link": "https://www.w3schools.com/html/default.asp",
+    "difficulty": "beginner",
+    "module_number": 3,
+    "certification": "paid"
+  },
+
      },
 
   { 
@@ -400,3 +413,4 @@
     "certification": "paid"
   }
 ]
+
