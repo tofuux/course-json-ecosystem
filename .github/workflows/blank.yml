@@ -19,7 +19,7 @@ jobs:
     steps:
     - name: Label previously merged PRs
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT }}
+        GH_TOKEN: ${{ github.token }}
       run: |
         # List all closed pull requests
         gh pr list --state closed --limit 0 --json number --jq '.[].number' | while read pr_number; do
