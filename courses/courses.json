@@ -358,6 +358,15 @@
     "module_number": 11,
     "certification": "paid"
   },
+  {
+   "id": 7,
+    "platform": "python",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+  },
      { 
     "id": 25,
     "platform": "UDEMY",
@@ -379,7 +388,7 @@
     "difficulty": "intermediate",
     "module_number": 6,
     "certification": "paid"
-  }
+  },
    {
     "id": 10,
     "platform": "Udemy",
