@@ -1,31 +1,18 @@
-# This is a basic workflow to help you get started with Actions
-name: CI
+name: Label Merged PRs
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+    types: [closed]
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  label_previous_prs:
+  label_merged_prs:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: read
+      pull-requests: write
     steps:
-    - name: Label previously merged PRs
-      env:
-        GH_TOKEN: ${{ github.token }}
-      run: |
-        # List all closed pull requests
-        gh pr list --state closed --limit 200 --json number --jq '.[].number' | while read pr_number; do
-          # Check if the PR is merged
-          if gh pr view $pr_number --json mergeable --jq '.mergeable'; then
-            echo "Adding label to PR #$pr_number"
-            gh pr edit $pr_number --add-label "hacktoberfest-accepted"
-          fi
-        done
+    - uses: actions/labeler@v4
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        configuration-path: .github/labeler.yml
