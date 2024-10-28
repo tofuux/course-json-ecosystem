@@ -178,6 +178,7 @@
     "module_number": 6,
     "certification": "paid"
   },
+
   {
     "id": 7,
     "platform": "Infosys springboard",
@@ -207,7 +208,9 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  },{
+  },
+  },
+{
     "id": 18,
     "platform": "Coursera",
     "free_course": "yes",
