@@ -50,16 +50,6 @@
     "certification": "paid"
   },
   {
-    "id": 7,
-    "platform": "Cloud Skills Boost",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "Indian",
-    "module_number": 6,
-    "certification": "paid"
-  },
-  {
     "id": 8,
     "platform": "Springboard",
     "free_course": "Nope",
@@ -188,6 +178,17 @@
     "module_number": 6,
     "certification": "paid"
   },
+
+  {
+    "id": 7,
+    "platform": "Infosys springboard",
+    "free_course": "yes",
+    "course_name": "principle of programming using C",
+    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "free"
+  },
    {
     "id": 10,
     "platform": "Khan Academy",
@@ -207,7 +208,9 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  },{
+  },
+  },
+{
     "id": 18,
     "platform": "Coursera",
     "free_course": "yes",
@@ -267,8 +270,9 @@
     "module_number": 5,
     "certification": "paid"
     },
+
       { 
-    "id": 23,
+    "id": 24,
     "platform": "CS50",
     "free_course": "yes",
     "course_name": "Introduction to Computer Science",
@@ -277,6 +281,7 @@
     "module_number": 6,
     "certification": "paid"
      },
+
   {
     "id": 24,
     "platform": "Coursera",
@@ -286,5 +291,30 @@
     "difficulty": "beginner",
     "module_number": 11,
     "certification": "paid"
-  }
+  },
+     { 
+    "id": 25,
+    "platform": "UDEMY",
+    "free_course": "PAID",
+    "course_name": "WEB DEVELOPMENT",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350454?start=450#notes",
+    "difficulty": "easy to hard",
+    "module_number": 7,
+    "certification": "paid"
+
+
+  },
+  {
+    "id": 24,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "intermediate",
+    "module_number": 6,
+    "certification": "paid"
+  },
+
+
+
 ]
