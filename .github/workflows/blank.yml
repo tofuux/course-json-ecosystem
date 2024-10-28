@@ -22,7 +22,7 @@ jobs:
         GH_TOKEN: ${{ github.token }}
       run: |
         # List all closed pull requests
-        gh pr list --state closed --limit 0 --json number --jq '.[].number' | while read pr_number; do
+        gh pr list --state closed --limit 200 --json number --jq '.[].number' | while read pr_number; do
           # Check if the PR is merged
           if gh pr view $pr_number --json mergeable --jq '.mergeable'; then
             echo "Adding label to PR #$pr_number"
