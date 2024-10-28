@@ -268,13 +268,23 @@
     "certification": "paid"
     },
       { 
-    "id": 23,
+    "id": 24,
     "platform": "CS50",
     "free_course": "yes",
     "course_name": "Introduction to Computer Science",
     "link": "https://pll.harvard.edu/course/cs50-introduction-computer-science",
     "difficulty": "beginner",
     "module_number": 6,
+    "certification": "paid"
+     },
+     { 
+    "id": 25,
+    "platform": "UDEMY",
+    "free_course": "PAID",
+    "course_name": "WEB DEVELOPMENT",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350454?start=450#notes",
+    "difficulty": "easy to hard",
+    "module_number": 7,
     "certification": "paid"
      }
 ]
