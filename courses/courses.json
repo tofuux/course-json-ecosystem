@@ -1,9 +1,9 @@
-[ 
+[
   {
     "id": 0,
-    "platform": "code with harry",
+    "platform": "Code with Harry",
     "free_course": "yes",
-    "course_name": "python for beginers",
+    "course_name": "Python for Beginners",
     "link": "https://www.codewithharry.com",
     "difficulty": "beginner",
     "module_number": 4,
@@ -130,6 +130,17 @@
   },
   {
     "id": 13,
+    "id": 7,
+    "platform": "Code with Mosh",
+    "free_course": "no",
+    "course_name": "React 18 for Beginners",
+    "link": "https://codewithmosh.com/p/ultimate-react-part1",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+    "id": 14,
     "platform": "edX",
     "free_course": "yes",
     "course_name": "Learn Artificial Intelligence",
@@ -139,7 +150,7 @@
     "certification": "paid"
   },
   {
-    "id": 14,
+    "id": 15,
     "platform": "PW Skills",
     "free_course": "no",
     "course_name": "Full Stack Web Development",
@@ -149,7 +160,7 @@
     "certification": "paid"
   },
   {
-    "id": 15,
+    "id": 16,
     "platform": "GeeksforGeeks",
     "free_course": "yes",
     "course_name": "Data Science",
@@ -159,7 +170,7 @@
     "certification": "paid"
   },
   {
-    "id": 16,
+    "id": 17,
     "platform": "YouTube",
     "free_course": "yes",
     "course_name": "DSA with Java",
@@ -169,7 +180,7 @@
     "certification": "N/A"
   },
   {
-    "id": 17,
+    "id": 18,
     "platform": "Udemy",
     "free_course": "no",
     "course_name": "The Complete Flutter Development Bootcamp with Dart",
@@ -179,7 +190,7 @@
     "certification": "paid"
   },
   {
-    "id": 18,
+    "id": 19,
     "Platform": "Cloud Skills Boost",
     "free_course": "yes",
     "course_name": "ML Ops",
@@ -189,7 +200,7 @@
     "certification": "paid"
   },
 {
-    "id": 19,
+    "id": 20,
     "Platform": "scaler",
     "free_course": "yes",
     "course_name": "python",
@@ -198,16 +209,6 @@
     "module_number": 6,
     "certification": "paid"
 },
-  {
-    "id": 20,
-    "Platform": "Infosys springboard",
-    "free_course": "yes",
-    "course_name": "principle of programming using C",
-    "link": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012996602861608960271_shared/overview",
-    "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "free"
-  },
 {
     "id": 21,
     "Platform": "Youtube",
@@ -228,3 +229,55 @@
     "module_number": 6,
     "certification": "paid"
   },
+  {
+    "id": 23,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Blockchain Specialization",
+    "link": "https://www.coursera.org/specializations/uci-blockchain",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
+  },
+    {
+    "id": 24,
+    "platform": "LearnDjango",
+    "free_course": "no",
+    "course_name": "Django for Beginners",
+    "link": "https://djangoforbeginners.com/",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "paid"
+  }
+  ,
+  {
+    "id": 25,
+    "platform": "PW Skills Lab",
+    "free_course": "yes",
+    "course_name": "Full Stack Development",
+    "link": "https://lp.pwskills.com/Full-Stack-Web-Development",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
+  },
+  {
+    "id": 26,
+    "platform": "Physics Wallah",
+    "free_course": "no",
+    "course_name": "Full Stack Web Development",
+    "link": "https://pwskills.com/blog/full-stack-web-development-certification-course/",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id":27,
+    "platform": "free youtube course, dont hate me",
+    "free_course": "yes",
+    "course_name": "free c course, full basics",
+    "link": "https://www.youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt",
+    "difficulty": "super basic",
+    "module_number": 12,
+    "certification": "N/A"
+  }
+]
