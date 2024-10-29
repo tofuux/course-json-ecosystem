@@ -11,7 +11,7 @@ m[
   },
   {
     "id": 1,
-    "platform": "freeCodeCamp",
+    "Platform": "freeCodeCamp",
     "free_course": "yes",
     "course_name": "Responsive Web Design",
     "link": "https://www.freecodecamp.org/learn/responsive-web-design/",
@@ -42,7 +42,7 @@ m[
   {
     "id": 4,
     "Platform": "Udemy",
-    "free_course": "yes",
+    "free_course": "no",
     "course_name": "Complete Python Bootcamp",
     "link": "https://www.udemy.com/course/complete-python-bootcamp/",
     "difficulty": "beginner",
