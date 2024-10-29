@@ -415,7 +415,7 @@
     "module_number": 3,
     "certification": "paid"
   },
-  {
+{
      "id": 41,
     "platform": "Cloud Skills Boost",
     "free_course": "yes",
@@ -526,6 +526,16 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "free"
-  }
+  },
+ {
+    "id": 52,
+    "platform": "freeCodeCamp",
+    "free_course": "yes",
+    "course_name": "Machine Learning with Python",
+    "link": "https://www.freecodecamp.org/learn/machine-learning-with-python/",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"    
+  }  
 ]
 
