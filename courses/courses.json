@@ -383,5 +383,16 @@
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "Youtube",
+    "free_course": "yes",
+    "course_name": "DSA in C and C++",
+    "link": "https://www.youtube.com/watch?v=B31LgI4Y4DQ&t=6s",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "nil"
   }
+
 ]
