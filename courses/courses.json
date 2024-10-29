@@ -437,6 +437,7 @@
     "module_number": 6,
     "certification": "paid"
   },
+
 {
     "id": 43,
     "platform": "youtube",
@@ -537,6 +538,15 @@
     "difficulty": "beginner",
     "module_number": 11,
     "certification": "paid"    
-  }  
+  } ,
+  {
+    "id": 7,
+    "platform": "Google",
+    "free_course": "no",
+    "course_name": "sigma 5.0",
+    "link": "https://www.apnacollege.in/course/sigma-5",
+    "difficulty": "beginner to advanced",
+    "module_number": 3,
+  }
 ]
 
