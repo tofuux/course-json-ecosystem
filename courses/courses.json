@@ -21,17 +21,17 @@
   },
   {
     "id": 2,
-    "platform": "Coursera",
+    "Platform": "Coursera",
     "free_course": "yes",
-    "course_name": "Machine Learning",
+    "course_name": "Ruby",
     "link": "https://www.coursera.org/learn/machine-learning",
-    "difficulty": "intermediate",
+    "difficulty": "Advance",
     "module_number": 11,
     "certification": "paid"
   },
   {
     "id": 3,
-    "platform": "Khan Academy",
+    "Platform": "Khan Academy",
     "free_course": "yes",
     "course_name": "Introduction to JavaScript",
     "link": "https://www.khanacademy.org/computing/computer-programming/programming",
@@ -41,8 +41,8 @@
   },
   {
     "id": 4,
-    "platform": "Udemy",
-    "free_course": "no",
+    "Platform": "Udemy",
+    "free_course": "yes",
     "course_name": "Complete Python Bootcamp",
     "link": "https://www.udemy.com/course/complete-python-bootcamp/",
     "difficulty": "beginner",
@@ -51,7 +51,7 @@
   },
   {
     "id": 5,
-    "platform": "edX",
+    "Platform": "edX",
     "free_course": "yes",
     "course_name": "Introduction to Computer Science",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
@@ -61,6 +61,7 @@
   },
   {
     "id": 6,
+    "Platform": "Infosis Spring Board",
     "platform": "Springboard",
     "free_course": "Nope",
     "course_name": "ML Ops",
@@ -335,7 +336,7 @@
     "certification": "paid"
   },
   {
-    "id": 7
+    "id": 33,
     "platform": "edX",
     "free_course": "yes",
     "course_name": "Introduction to Cs",
@@ -345,7 +346,7 @@
     "certification": "paid"
   }
   {
-    "id": 33,
+    "id": 34,
     "platform": "Take U Forward+",
     "free_course": "yes",
     "course_name": "AI ML",
@@ -355,7 +356,7 @@
     "certification": "paid"
  },
 {
-    "id": 34,
+    "id": 35,
     "platform": "Cloud Skills Boost",
     "free_course": "yes",
     "course_name": "ML Ops",
@@ -365,7 +366,7 @@
    "certification": "paid"
 },
  {
-    "id": 35,
+    "id": 36,
     "platform": "Hacktober",
     "free_course": "Yes",
     "course_name": "git and github",
@@ -375,7 +376,7 @@
     "certification": "free"
   },
   {
-    "id": 7,
+    "id": 37,
     "platform": "Cloud Skills Boost",
     "free_course": "yes",
     "course_name": "UI/UX",
@@ -385,7 +386,7 @@
     "certification": "paid"
   },
   {
-    "id": 7,
+    "id": 38,
     "platform": "Youtube",
     "free_course": "yes",
     "course_name": "DSA in C and C++",
@@ -393,6 +394,15 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "nil"
+  },
+  {
+    "id": 39,
+    "Platform": "Scaler",
+    "free_course": "yes",
+    "course_name": "SQL In Python",
+    "link": "https://www.scaler.com/topics/course/dbms/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
   }
-
 ]
