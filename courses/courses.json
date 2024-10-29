@@ -683,5 +683,15 @@ m[
     "difficulty": "intermediate",
     "module_number": 8,
     "certification": "free"
+  },
+  {
+    "id": 68,
+    "platform": "OOPS",
+    "free_course": "yes",
+    "course_name": "alpha",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "free"
   }
 ]
