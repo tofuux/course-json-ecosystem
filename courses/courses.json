@@ -68,25 +68,32 @@
     "difficulty": "Indian",
     "module_number": 6,
     "certification": "paid"
-  }, {
+
+  },
+  
+
+ {
     "id": 7,
     "platform": "YouTube",
     "free_course": "yes",
     "course_name": "JavaScript",
     "link": "https://m.youtube.com/watch?v=EerdGm-ehJQ",
     "difficulty": "beginner",
-    "module_number": 1,
-    "certification": "free"
+    "module_number": 6,
+    "certification": "paid"
   },
   {
     "id": 8,
-    "platform": "Codecademy",
+    "platform": "Edx",
     "free_course": "yes",
-    "course_name": "Learn C++",
-    "link": "https://www.codecademy.com/learn/learn-c-plus-plus",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?linked_from=autocomplete-prequery&c=autocomplete-prequery&position=1",
     "difficulty": "beginner",
-    "module_number": 13,
+    "module_number": 6,
+    "certification": "paid"
+    "module_number": 1,
     "certification": "free"
+
   },
   {
     "id": 9,
@@ -109,13 +116,13 @@
     "certification": "paid"
   },
   {
-  "id": 11,
-    "platform": "freeCodeCamp",
-    "free_course": "yes",
-    "course_name": "coding skills, from HTML and CSS to JavaScript, Python, and more.",
-    "link": "https://www.freecodecamp.org/",
+    "id": 11,
+    "platform": "Udemy",
+    "free_course": "no",
+    "course_name": "Complete web development bootcamp",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
     "difficulty": "beginner",
-    "module_number": 3,
+    "module_number": 50
     "certification": "free"
   },
   {
@@ -130,7 +137,6 @@
   },
   {
     "id": 13,
-    "id": 7,
     "platform": "Code with Mosh",
     "free_course": "no",
     "course_name": "React 18 for Beginners",
@@ -239,8 +245,37 @@
     "module_number": 4,
     "certification": "paid"
   },
-    {
+  {
     "id": 24,
+    "platform": "Pluralsight",
+    "free_course": "no",
+    "course_name": "JavaScript: Getting Started",
+    "link": "https://www.pluralsight.com/courses/javascript-getting-started",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id": 25,
+    "platform": "LinkedIn Learning",
+    "free_course": "no",
+    "course_name": "Advanced Python",
+    "link": "https://www.linkedin.com/learning/advanced-python",
+    "difficulty": "advanced",
+    "module_number": 10,
+    "certification": "paid"
+  },
+  {
+    "id": 26,
+    "platform": "Codecademy",
+    "free_course": "yes",
+    "course_name": "Learn SQL",
+    "link": "https://www.codecademy.com/learn/learn-sql",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "free"},
+    {
+    "id": 27,
     "platform": "LearnDjango",
     "free_course": "no",
     "course_name": "Django for Beginners",
@@ -251,7 +286,7 @@
   }
   ,
   {
-    "id": 25,
+    "id": 28,
     "platform": "PW Skills Lab",
     "free_course": "yes",
     "course_name": "Full Stack Development",
@@ -261,7 +296,7 @@
     "certification": "paid"
   },
   {
-    "id": 26,
+    "id": 29,
     "platform": "Physics Wallah",
     "free_course": "no",
     "course_name": "Full Stack Web Development",
@@ -271,7 +306,7 @@
     "certification": "paid"
   },
   {
-    "id":27,
+    "id":30,
     "platform": "free youtube course, dont hate me",
     "free_course": "yes",
     "course_name": "free c course, full basics",
