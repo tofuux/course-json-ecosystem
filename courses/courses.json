@@ -109,6 +109,15 @@
     "certification": "paid"
   },
   {
+  "id": 11,
+    "platform": "freeCodeCamp",
+    "free_course": "yes",
+    "course_name": "coding skills, from HTML and CSS to JavaScript, Python, and more.",
+    "link": "https://www.freecodecamp.org/",
+    "difficulty": "beginner",
+    "module_number": 3,
+    "certification": "free"
+  },
     "id": 11,
     "platform": "Coursera",
     "free_course": "yes",
