@@ -673,7 +673,7 @@ m[
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-     },
+  },
 {
     "id": 67,
     "platform": "DSA",
@@ -792,6 +792,16 @@ m[
     "link": "https://www.coursera.org/learn/machine-learning",
     "difficulty": "easy",
     "module_number": 11,
+    "certification": "paid"
+  },
+  {
+    "id": 80,
+    "platform": "Physics",
+    "free_course": "yes",
+    "course_name": "Quantum Mechanics",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
     "certification": "paid"
   },
 ]
