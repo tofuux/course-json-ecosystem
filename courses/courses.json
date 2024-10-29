@@ -813,5 +813,15 @@ m[
     "difficulty": "beginner",
     "module_number": 6,
   },
+{
+    "id": 82,
+    "platform": "Cloud Skills Boost",
+    "free_course": "NO",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "FREE"
+  },
 ]
 
