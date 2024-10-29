@@ -464,5 +464,46 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 46,
+    "platform": "Hackerdemy",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "free"
+  },
+    {
+    "id": 47,
+    "platform": "codemy",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "pro",
+    "module_number": 8,
+    "certification": "paid"
+  },
+      {
+    "id": 48,
+    "platform": "cloudcode",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "intermediate",
+    "module_number": 9,
+    "certification": "paid"
+  },
+      {
+    "id": 49,
+    "platform": "codingpro",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "pro",
+    "module_number": 10,
+    "certification": "paid"
   }
+  
 ]
