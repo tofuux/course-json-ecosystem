@@ -723,5 +723,15 @@ m[
     "difficulty": "beginner",
     "module_number": 13,
     "certification": "paid"
-   }
+   },
+   {
+    "id": 73,
+    "platform": "infosys springboard",
+    "free_course": "yes",
+    "course_name": "Introduction to python",
+    "link": "https://www.infosysspringboard.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
+  }
 ]
