@@ -437,7 +437,6 @@
     "module_number": 6,
     "certification": "paid"
   },
-
 {
     "id": 43,
     "platform": "youtube",
@@ -463,7 +462,6 @@
     "platform": "Udemy",
     "free_course": "yes",
     "course_name": "IOT",
-
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
     "difficulty": "beginner",
     "module_number": 6,
@@ -540,7 +538,7 @@
     "certification": "paid"    
   } ,
   {
-    "id": 7,
+    "id": 53,
     "platform": "Google",
     "free_course": "no",
     "course_name": "sigma 5.0",
