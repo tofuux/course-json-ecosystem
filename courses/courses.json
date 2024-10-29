@@ -436,7 +436,7 @@
     "module_number": 6,
     "certification": "paid"
   },
-  {
+{
     "id": 43,
     "platform": "youtube",
     "free_course": "yes",
@@ -516,6 +516,16 @@
     "difficulty": "intermediate",
     "module_number": 1,
     "certification": "N/A"
-   
   },
+  {
+    "id": 51,
+    "platform": "Sololearn",
+    "free_course": "yes",
+    "course_name": "Artificial Intelligence",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "free"
+  }
 ]
+
