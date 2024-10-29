@@ -122,18 +122,19 @@
     "course_name": "Complete web development bootcamp",
     "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
     "difficulty": "beginner",
-    "module_number": 50
-    "certification": "free"
+    "module_number": 7,
+    "certification": "paid"
   },
   {
     "id": 12,
-    "platform": "Udemy",
+    "platform": "GOOGLE DEVELOPMENT WORKSHOP",
     "free_course": "no",
-    "course_name": "Master C++",
-    "link": "https://www.udemy.com/share/10bMeF3@Z3wXXDzvUXuy4pzZrqfw6igmuMexQSThT044o-HIcKC2Jvv-Uw-Lwo3oKJQ7fIji-w==/",
+    "course_name": "Complete web development bootcamp",
+    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
     "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "paid"
+    "module_number": 8,
+    "module_number": 50
+    "certification": "free"
   },
   {
     "id": 13,
