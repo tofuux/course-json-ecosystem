@@ -653,6 +653,16 @@ m[
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }
+  },
+{
+    "id": 65,
+    "platform": "edX",
+    "free_course": "yes",
+    "course_name": "Introduction to Python",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+}
 ]
   
