@@ -61,6 +61,7 @@
   },
   {
     "id": 6,
+    "platform": "coursera",
     "Platform": "Infosis Spring Board",
     "platform": "Springboard",
     "free_course": "Nope",
@@ -359,8 +360,8 @@
     "id": 35,
     "platform": "Cloud Skills Boost",
     "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "course_name": "Introduction to c language",
+    "link": "https://www.course.org/course/introduction-to-c-language",
     "difficulty": "beginner",
     "module_number": 12,
    "certification": "paid"
