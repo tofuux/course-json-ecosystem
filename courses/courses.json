@@ -82,7 +82,7 @@ m[
     "module_number": 6,
     "certification": "paid"
   },
-  {
+   {
     "id": 8,
     "platform": "Edx",
     "free_course": "yes",
@@ -803,6 +803,15 @@ m[
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+   {
+    "id": 81,
+    "platform": "edX",
+    "free_course": "yes",
+    "course_name": "Computer Science Principles",
+    "link": "https://home.edx.org/",
+    "difficulty": "beginner",
+    "module_number": 6,
   },
 ]
 
