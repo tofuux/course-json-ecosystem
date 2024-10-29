@@ -199,6 +199,17 @@
     "module_number": 6,
     "certification": "paid"
   },
+
+{
+    "id": 7,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.udemy.com/course/javascript-basics-start-coding-in-5-minutes-2019/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  },
   {
     "id": "8"
     "platform": "Cloud Skills Boost",
@@ -289,5 +300,6 @@
     "difficulty": "super basic",
     "module_number": 12,
     "certification": "N/A"
+
   }
 ]
