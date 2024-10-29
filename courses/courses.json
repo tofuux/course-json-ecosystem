@@ -784,5 +784,15 @@ m[
     "module_number": 6,
     "certification": "paid"
   },
+{
+    "id": 79,
+    "platform": "LINKDIN",
+    "free_course": "yes",
+    "course_name": "artificial intellegence",
+    "link": "https://www.coursera.org/learn/machine-learning",
+    "difficulty": "easy",
+    "module_number": 11,
+    "certification": "paid"
+  },
 ]
 
