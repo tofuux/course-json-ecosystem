@@ -325,6 +325,16 @@
     "difficulty": "super basic",
     "module_number": 12,
     "certification": "N/A"
-  }
+  },
+ {
+    "id": 31,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+ }
     
 ]
