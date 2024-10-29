@@ -118,15 +118,6 @@
     "module_number": 3,
     "certification": "free"
   },
-    "id": 11,
-    "platform": "Coursera",
-    "free_course": "yes",
-    "course_name": "Programming with JavaScript",
-    "link": "https://www.coursera.org/learn/programming-with-javascript",
-    "difficulty": "beginner",
-    "module_number": 5,
-    "certification": "paid"
-  },
   {
     "id": 12,
     "platform": "Udemy",
@@ -208,27 +199,6 @@
     "module_number": 6,
     "certification": "paid"
   },
-
-{
-    "id": 7,
-    "platform": "Cloud Skills Boost",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.udemy.com/course/javascript-basics-start-coding-in-5-minutes-2019/",
-    "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "paid"
-  },
-  {
-    "id": "8"
-    "platform": "Cloud Skills Boost",
-    "free_course": "yesssss",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "paiiiid"
-  },
 {
     "id": 20,
     "Platform": "scaler",
@@ -239,39 +209,6 @@
     "module_number": 6,
     "certification": "paid"
   },
-  {
-    "id": 11,
-    "platform": "Cloud Skills Boost",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "paid"
-  },
-{
-    "id": 6,
-    "platform": "Cloud Skills Boost",
-    "free_course": "yes",
-    "course_name": "ML Ops",
-    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
-    "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "paid"
-
-  },
-
-    {
-    "id": 8,
-    "platform": "YouTube",
-    "free_course": "yes",
-    "course_name": "Html and Css",
-    "link": "https://m.youtube.com/watch?v=G3e-cpL7ofc&pp=ygUvaHRtbCAgYW5kIGNzcyBpbiA2IGhvdXJzIHR1dG9yaWFsIGZvciBiZWdpbm5lcnM%3D",
-    "difficulty": "beginner",
-    "module_number": 1,
-    "certification": "Free"
-
-},
 {
     "id": 21,
     "Platform": "Youtube",
@@ -343,5 +280,4 @@
     "module_number": 12,
     "certification": "N/A"
   }
-
 ]
