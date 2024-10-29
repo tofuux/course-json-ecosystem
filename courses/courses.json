@@ -585,7 +585,17 @@ m[
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-}
+},
+ {
+    "id": 58,
+    "platform": "College Wallah",
+    "free_course": "yes",
+    "course_name": "C++",
+    "link": "https://youtube.com/@collegewallahbypw?si=hiANtsXZH5sWcrms",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "N/A"
+  }
 ]
 
 
