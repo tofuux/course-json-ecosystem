@@ -475,7 +475,7 @@ m[
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
     "difficulty": "beginner",
     "module_number": 7,
-    "certification": "free"
+    "certification": "paid"
   },
     {
     "id": 47,
@@ -597,5 +597,3 @@ m[
     "certification": "N/A"
   }
 ]
-
-
