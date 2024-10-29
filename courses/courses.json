@@ -585,9 +585,47 @@ m[
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+     "id": 58,
+    "platform": "GDG workshop",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
+  },
+  {
+   "id": 59,
+    "platform": "CSE workshop",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+   "id": 60,
+    "platform": "AIML",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 9,
+    "certification": "paid"
+  },
+  { "id": 61,
+    "platform": "DATA SCIENCE",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 10,
 },
  {
-    "id": 58,
+    "id": 62,
     "platform": "College Wallah",
     "free_course": "yes",
     "course_name": "C++",
@@ -597,7 +635,7 @@ m[
     "certification": "N/A"
   },
 { 
-    "id": 59,
+    "id": 63,
     "platform": "bro code",
     "free_course": "yes",
     "course_name": "ML Ops",
@@ -607,7 +645,7 @@ m[
     "certification": "unpaid"
   },
  {
-    "id": 60,
+    "id": 64,
     "platform": "edx",
     "free_course": "no",
     "course_name": "Computer Science for Artificial Intelligence",
