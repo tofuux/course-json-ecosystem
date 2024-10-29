@@ -59,6 +59,19 @@ m[
     "module_number": 6,
     "certification": "paid"
   },
+  {
+    "id": 6,
+    "platform": "coursera",
+    "Platform": "Infosis Spring Board",
+    "platform": "Springboard",
+    "free_course": "Nope",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "Indian",
+    "module_number": 6,
+    "certification": "paid"
+
+  },
  {
     "id": 7,
     "platform": "YouTube",
@@ -681,14 +694,14 @@ m[
     "module_number": 6,
     "certification": "free"
   },
-{
-    "id": 69,
-    "platform": "youtube",
+  {
+      "id": 70,
+    "platform": "Udemy",
     "free_course": "yes",
-    "course_name": "c programmimg",
-    "link": "https://www.youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt",
+    "course_name": "nodejs",
+    "link": "https://www.udemy.com/topic/nodejs/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_DSA_Beta_Prof_la.EN_cc.India&campaigntype=Search&portfolio=Bing-India&language=EN&product=Course&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_1326013411670044_._ad__._kw_Dev%20en_._de_c_._dm__._pl__._ti_dat-2334675503276553:loc-90_._li_158575_._pd__._&matchtype=b&msclkid=3580ef6f1dd11b339c9c884f71817c8d",
     "difficulty": "beginner",
-    "module_number": 6,
-    "certification": "N/A"
-}
+    "module_number": 1,
+    "certification": "paid"
+  }
 ]
