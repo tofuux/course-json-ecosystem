@@ -199,8 +199,19 @@
     "module_number": 4,
     "certification": "paid"
   },
-  {
+    {
     "id": 19,
+    "platform": "LearnDjango",
+    "free_course": "no",
+    "course_name": "Django for Beginners",
+    "link": "https://djangoforbeginners.com/",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "paid"
+  }
+  ,
+  {
+    "id": 20,
     "platform": "PW Skills Lab",
     "free_course": "yes",
     "course_name": "Full Stack Development",
@@ -210,7 +221,7 @@
     "certification": "paid"
   },
   {
-    "id": 20,
+    "id": 21,
     "platform": "Physics Wallah",
     "free_course": "no",
     "course_name": "Full Stack Web Development",
@@ -220,7 +231,7 @@
     "certification": "paid"
   },
   {
-    "id":47,
+    "id":22,
     "platform": "free youtube course, dont hate me",
     "free_course": "yes",
     "course_name": "free c course, full basics",
