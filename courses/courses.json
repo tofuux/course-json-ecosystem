@@ -332,8 +332,8 @@ m[
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
-  }
-  {
+  },
+{
     "id": 34,
     "platform": "Take U Forward+",
     "free_course": "yes",
@@ -690,5 +690,15 @@ m[
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "N/A"
-}
+},
+  {
+    "id": 70,
+    "platform": "Typing courses",
+    "free_course": "yes",
+    "course_name": "learn speed typing",
+    "link": "https://www.ratatype.com/typing-test/",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certifictaion": "free",
+  }
 ]
