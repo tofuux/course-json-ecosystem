@@ -545,6 +545,16 @@
     "link": "https://www.apnacollege.in/course/sigma-5",
     "difficulty": "beginner to advanced",
     "module_number": 3,
+  },
+  {
+    "id": 54,
+    "platform": "Swayam",
+    "free_course": "yes",
+    "course_name": "Advanced C++",
+    "link": "https://https://onlinecourses.swayam2.ac.in/aic20_sp01/preview",
+    "difficulty": "intermediate",
+    "module_number": 6,
+    "certification": "paid"
   }
 ]
 
