@@ -50,16 +50,6 @@
     "certification": "paid"
   },
   {
-    "id": 70,
-    "platform": "Hacktober",
-    "free_course": "Yes",
-    "course_name": "git and github",
-    "link": "https://hacktoberfest.com/",
-    "difficulty": "beginner",
-    "module_number": 7,
-    "certification": "free"
-  }
-  {
     "id": 5,
     "platform": "edX",
     "free_course": "yes",
@@ -80,8 +70,6 @@
     "certification": "paid"
 
   },
-  
-
  {
     "id": 7,
     "platform": "YouTube",
@@ -284,7 +272,8 @@
     "link": "https://www.codecademy.com/learn/learn-sql",
     "difficulty": "beginner",
     "module_number": 7,
-    "certification": "free"},
+    "certification": "free"
+  },
     {
     "id": 27,
     "platform": "LearnDjango",
@@ -294,8 +283,7 @@
     "difficulty": "beginner",
     "module_number": 1,
     "certification": "paid"
-  }
-  ,
+  },
   {
     "id": 28,
     "platform": "PW Skills Lab",
@@ -337,7 +325,7 @@
     "certification": "paid"
   },
   {
-    "id": 6,
+    "id": 32,
     "platform": "Cloud Skills Boost",
     "free_course": "yes",
     "course__name": "ML Ops",
@@ -347,7 +335,7 @@
     "certification": "paid"
   }
   {
-    "id": 7,
+    "id": 33,
     "platform": "Take U Forward+",
     "free_course": "yes",
     "course_name": "AI ML",
@@ -357,7 +345,7 @@
     "certification": "paid"
  },
 {
-    "id": 32,
+    "id": 34,
     "platform": "Cloud Skills Boost",
     "free_course": "yes",
     "course_name": "ML Ops",
@@ -365,6 +353,16 @@
     "difficulty": "beginner",
     "module_number": 12,
    "certification": "paid"
-}
+},
+ {
+    "id": 35,
+    "platform": "Hacktober",
+    "free_course": "Yes",
+    "course_name": "git and github",
+    "link": "https://hacktoberfest.com/",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "free"
+  }
     
 ]
