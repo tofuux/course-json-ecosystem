@@ -673,7 +673,7 @@ m[
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  },
+     },
 {
     "id": 67,
     "platform": "DSA",
@@ -753,9 +753,9 @@ m[
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
-  }
+  },
   {
- "id": 7,
+    "id": 76,
     "platform": "vs code",
     "free_course": "yes",
     "course_name": "ML Ops",
@@ -763,9 +763,16 @@ m[
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
-  }
-
-]
-
+  },
+{
+    "id": 77,
+    "platform": "Youtube",
+    "free_course": "yes",
+    "course_name": "C Language Tutorial for Beginners ",
+    "link": "https://youtu.be/aZb0iu4uGwA?si=MMjFMu8nmN0Q_1-i",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "free"
+  },
 ]
 
