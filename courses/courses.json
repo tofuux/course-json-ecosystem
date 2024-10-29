@@ -330,7 +330,17 @@
     "id": 31,
     "platform": "Cloud Skills Boost",
     "free_course": "yes",
-    "course_name": "ML Ops",
+    "course_name": "AI Oops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  }
+  {
+    "id": 7,
+    "platform": "Take U Forward+",
+    "free_course": "yes",
+    "course_name": "AI ML",
     "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
     "difficulty": "beginner",
     "module_number": 6,
