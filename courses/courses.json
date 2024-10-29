@@ -258,6 +258,19 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+
+  },
+
+    {
+    "id": 8,
+    "platform": "YouTube",
+    "free_course": "yes",
+    "course_name": "Html and Css",
+    "link": "https://m.youtube.com/watch?v=G3e-cpL7ofc&pp=ygUvaHRtbCAgYW5kIGNzcyBpbiA2IGhvdXJzIHR1dG9yaWFsIGZvciBiZWdpbm5lcnM%3D",
+    "difficulty": "beginner",
+    "module_number": 1,
+    "certification": "Free"
+
 },
 {
     "id": 21,
@@ -330,4 +343,5 @@
     "module_number": 12,
     "certification": "N/A"
   }
+
 ]
